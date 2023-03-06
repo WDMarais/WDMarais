@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WDMarais
 - 👀 I’m interested in web development, backend automation + CI/CD and simulation/mathematical modelling. On the side, I have an interest in linguistics and guitar/music in general
-- 🌱 I’m currently learning React, Flutter and Python
+- 🌱 I’m currently learning Typescript, React and Redux
 - 📫 marais.wynand@gmail.com
 - 📲 +27836016064
 
